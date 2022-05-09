@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356751638862",
+    "firebase_url": "https://flat-chat-67371.firebaseio.com",
+    "project_id": "flat-chat-67371",
+    "storage_bucket": "flat-chat-67371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356751638862:android:8bb1d30492bea8caff5e1f",
+        "android_client_info": {
+          "package_name": "co.DjalilDi.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356751638862-jeurjb9733ggg2d2p0ie21brpmeni9c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2cVKY2RtweEbxhhEDjzjw5n9QEx2D0Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356751638862-jeurjb9733ggg2d2p0ie21brpmeni9c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
